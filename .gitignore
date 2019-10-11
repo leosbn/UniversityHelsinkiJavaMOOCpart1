@@ -1,0 +1,7 @@
+# FOLDERS
+week1-000.Sandbox/
+**/nbproject/private/**
+
+# FILES
+.jar
+
